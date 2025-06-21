@@ -23,6 +23,8 @@
   <depend>dynamic_reconfigure</depend> 
   <depend>ledpanels</depend> 
   <depend>phidgets</depend> 
+  <depend>python3</depend>
+
   
 
   <!-- The export tag contains other, unspecified, tags -->
